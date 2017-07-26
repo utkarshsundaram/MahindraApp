@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MahindraApp.iml" filepath="$PROJECT_DIR$/MahindraApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidbaseframerepo-master-12345678/androidbaseframerepo-master-12345678.iml" filepath="$PROJECT_DIR$/androidbaseframerepo-master-12345678/androidbaseframerepo-master-12345678.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

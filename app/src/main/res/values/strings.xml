@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MahindraApp</string>
+    <string name="member">Member</string>
+    <string name="register">Register</string>
+    <string name="member_id_email">Member ID/Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="can_t_login">Can\'t Login</string>
+    <string name="login_with">Login with</string>
+    <string name="beach">Beach</string>
+    <string name="resort_s_in_beach">Resort(s) in Beach</string>
+    <string name="_0_review">0 review</string>
+    <string name="or_login_with">OR LOGIN WITH</string>
+    <string name="googleplus">G+</string>
+    <string name="datas">2</string>
+    <string name="summer">Summer</string>
+    <string name="besttimetotravel">BestTimeToTravel</string>
+    <string name="about">About</string>
+    <string name="things_to_do">Things to Do</string>
+    <string name="way_to_reach">WayToReach</string>
+    <string name="review">Review</string>
+    <string name="winters">Winters</string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+    <string name="check_booking">Check Booking</string>
+    <string name="phone">Phone</string>
+    <string name="aboutHeading">ABOUT</string>
+    <string name="hint_password">Enter Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_resort">About Resort</string>
+</resources>

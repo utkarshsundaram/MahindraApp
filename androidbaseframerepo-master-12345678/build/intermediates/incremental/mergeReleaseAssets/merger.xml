@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/user/AndroidStudioProjects/MahindraApp/androidbaseframerepo-master-12345678/assets"/><source path="/home/user/AndroidStudioProjects/MahindraApp/androidbaseframerepo-master-12345678/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/user/AndroidStudioProjects/MahindraApp/androidbaseframerepo-master-12345678/build-types/release/assets"/></dataSet></merger>

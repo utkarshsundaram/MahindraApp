@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lightBlue">#00B2E8</color>
+    <color name="whitecolor">#fff</color>
+    <color name="blackcolor">#000</color>
+    <color name="greycolor">#9EA4AF</color>
+    <color name="darkgrey">#CEDCDC</color>
+    <color name="white">#fff</color>
+    <color name="backgroundWhite">#fff</color>
+    <color name="blueButtonBackground">#00B2E8</color>
+    <color name="grayBorder">#888F9E</color>
+    <color name="redBorder">#F25052</color>
+    <color name="backgroundGray">#9EA4AF</color>
+    <color name="colorSaffron">#FF8100</color>
+    <color name="ongoing_holidays_color">#97C536</color>
+    <color name="green_background">#97C536</color>
+    <color name="grey_background">#ADB5C8</color>
+    <color name="greyText">#3A434F</color>
+    <color name="greytextforlogin">#545C65</color>
+    <color name="colorHint">#546E7A</color>
+
+</resources>
